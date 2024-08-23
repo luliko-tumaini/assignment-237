@@ -1,0 +1,67 @@
+body{
+    background-color: aqua;
+}
+nav
+{
+    background-color: red;
+    height: 60px;
+}
+h1{
+    background-color: blue;
+    font-size: 35px;
+    text-align: center;
+    color: white;
+}
+
+ul{
+    list-style: none;
+
+
+    width: 200px;
+    height: 170px;
+    
+    margin-left: 7px;
+    float: left;
+    font-size: 30px;
+    padding: 20px;
+    margin-top: 0;
+    
+}
+
+ul li  a{
+    
+    background-color:white;
+    width: 750px;
+    font-size: 30px;
+   
+    
+  
+}
+a.hover
+{
+    background-color: red;
+}
+ul li a 
+{
+    display: inline;
+    
+}
+
+
+
+
+
+
+footer
+{
+    background-color: blue;
+    color: white;
+    font-size: 35px;
+    text-align: center;
+   margin: 50px;
+
+height: 50px;
+    
+}
+
+

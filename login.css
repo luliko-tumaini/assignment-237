@@ -1,0 +1,57 @@
+body{
+    background-color: orange;
+}
+form{
+    background-color: aqua;
+    width: 290px;
+    height: 300px;
+    box-shadow: 10px 10px 5px;
+    padding: 40px;
+    margin: 100px auto;
+}
+nav{
+    background-color: red;
+    height: 70px;
+    text-decoration: none;
+}
+footer
+{
+    background-color: blue;
+    text-align: end;
+    font-size: 30px;
+    margin: 0;
+    color: white;
+}
+h2{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    margin: 0;
+    text-decoration: none;
+    height: 50px;
+    font-size: 40px;
+}
+p{
+    float: right;
+    font-size: 20px;
+}
+h1
+{
+    color: red;
+    font-size: 30px;
+    text-align: center;
+}
+label{
+    font-size: 20px;
+   
+}
+input{
+    font-size: 15px;
+}
+button
+{
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    border-radius: 6px;
+}
